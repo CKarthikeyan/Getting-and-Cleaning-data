@@ -4,7 +4,7 @@ More information about the experiment can be obtained from
  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
 The data was downloaded from the following URL: 
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
  
 The run_analysis.R script does the following in order to come up with tidy data 
 i. Data is read from X_train.txt, y_train.txt and subject_train.txt in the "./UCI HAR Dataset/train" folder and stored in x_train, y_train and subject_train variables 
